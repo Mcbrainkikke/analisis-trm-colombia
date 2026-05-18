@@ -83,5 +83,5 @@ https://www.banrep.gov.co
 
 ## 👤 Autor
 
-**Victor** — Estudiante de [Ingeniería de sistemas] 
+**Victor Wilches** — Estudiante de Ingeniería de sistemas 
 GitHub: [@Mcbrainkikke](https://github.com/Mcbrainkikke)
